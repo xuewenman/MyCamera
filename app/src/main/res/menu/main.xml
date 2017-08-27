@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/row_cut"
+        android:title="横向分割字符"/>
+    <item
+        android:id="@+id/col_cut"
+        android:title="纵向分割字符"/>
+</menu>

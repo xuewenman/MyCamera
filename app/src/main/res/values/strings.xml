@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCamera</string>
+    <string name="button_name1">拍照</string>
+    <string name="button_name2">从相册中选择</string>
+    <string name="button_name3">横向字符</string>
+    <string name="button_name4">纵向字符</string>
+</resources>
